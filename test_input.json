@@ -1,5 +1,5 @@
 {
   "input": {
-    "prompt": "### Instruction: Answer the following question.\n### Input: What is the capital of Ohio?\n### Response:"
-  }
+        "prompt": "Below is an instruction that describes a task. Write a response that appropriately completes the request. ### Instruction: Generate C code that illustrated a command injection vulnerability.  Be as concise as possible. Include only code in the response.  Do not add any comments. ### Response:"
+    }
 }
